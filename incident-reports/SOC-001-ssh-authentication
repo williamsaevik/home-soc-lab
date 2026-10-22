@@ -97,3 +97,14 @@ For future exercises, I would also like to experiment with custom Wazuh detectio
 My first SOC lab test was successful. I was able to generate failed SSH login attempts, locate them in the Linux logs, and confirm that Wazuh detected the activity.
 
 This gave me a better understanding of how a SOC analyst can investigate authentication-related security events using a SIEM.
+
+## Screenshots
+
+### Failed SSH Login Attempts
+![SSH Logs](../screenshots/01-ssh-failed-login.png)
+
+### Wazuh Threat Hunting
+![Wazuh Alerts](../screenshots/02-wazuh-alerts.png)
+
+### Wazuh Detection Details
+![Detection Details](../screenshots/03-wazuh-detection-details.png)
