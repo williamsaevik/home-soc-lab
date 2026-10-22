@@ -1,5 +1,7 @@
 # Home SOC Lab
 
+![Wazuh Threat Hunting Dashboard](screenshots/02-wazuh-alerts.png)
+
 ## About the Project
 
 This is a personal cybersecurity project where I built a small SOC lab to practice security monitoring and incident detection.
